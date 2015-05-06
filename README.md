@@ -8,7 +8,7 @@ Resources
 Here are a couple resources I found very useful when I was creating my first custome theme.
 
 Creating Themes by Peter Flynn
-https://github.com/adobe/brackets/wiki/Creating-Themes 
+-https://github.com/adobe/brackets/wiki/Creating-Themes 
 
 Extension package format by Nicolo Ribaudo
-link:https://github.com/adobe/brackets/wiki/Extension-package-format#packagejson-format
+-https://github.com/adobe/brackets/wiki/Extension-package-format#packagejson-format
