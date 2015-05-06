@@ -1,14 +1,13 @@
 # first-custom-theme
 
-My first custom theme for Brackets
+<h2>My first custom theme for Brackets</h2>
 
-This is my first custom theme for the Brackets editor. I am still working on this project and it is a work in progress. I am a new student to web development and github. So please bare with me as I learn to setup this project up.
+<p>This is my first custom theme for the Brackets editor. I am still working on this project and it is a work in progress. I am a new student to web development and github. So please bare with me as I learn to setup this project up.</p>
 
-Resources
+<h2>Resources</h2>
 Here are a couple resources I found very useful when I was creating my first custome theme.
 
-Creating Themes by Peter Flynn
--https://github.com/adobe/brackets/wiki/Creating-Themes 
+[Creating Themes] (https://github.com/adobe/brackets/wiki/Creating-Themes) by Peter Flynn
+ 
+[Extension package format] (https://github.com/adobe/brackets/wiki/Extension-package-format#packagejson-format) by Nicolo Ribaudo
 
-Extension package format by Nicolo Ribaudo
--https://github.com/adobe/brackets/wiki/Extension-package-format#packagejson-format
