@@ -7,7 +7,7 @@
 <h3>Resources</h3>
 Here are a couple resources I found very useful when I was creating my first custome theme.
 
-[Creating Themes] (https://github.com/adobe/brackets/wiki/Creating-Themes) by Peter Flynn <em>Start here first</em>
+[Creating Themes] (https://github.com/adobe/brackets/wiki/Creating-Themes) by Peter Flynn **(Start here first)**
  
 [Extension package format] (https://github.com/adobe/brackets/wiki/Extension-package-format#packagejson-format) by Nicolo Ribaudo
 
