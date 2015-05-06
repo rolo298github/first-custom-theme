@@ -11,3 +11,4 @@ Here are a couple resources I found very useful when I was creating my first cus
  
 [Extension package format] (https://github.com/adobe/brackets/wiki/Extension-package-format#packagejson-format) by Nicolo Ribaudo
 
+[Dark Theme] (https://github.com/adobe/brackets/blob/master/src/extensions/default/DarkTheme/main.less) Basic Theme to start out with and edit.
