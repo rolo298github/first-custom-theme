@@ -8,10 +8,9 @@ This is my first custom theme for the Brackets editor. I am a new student to web
 
 
 <h2>Installing Theme</h2>
-On my GitHub website Look for Download.Zip button on the right side column of the page.
-
-Click on 
+Click on
 ![download-zip](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/download_zip.PNG)
+*Look to the right side column of the page.*
 
 Downloading the file should be occuring.
 
