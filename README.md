@@ -7,7 +7,7 @@
 <p>This is my first custom theme for the Brackets editor. I am a new student to web development and github. So please bare with me as I learn to setup this project.</p>
 
 <h3>Resources</h3>
-Here are a couple resources I found that are very useful when I was creating my first custome theme.
+Here are a couple resources I found that are very useful when I was creating my first custom theme.
 
 [Creating Themes] (https://github.com/adobe/brackets/wiki/Creating-Themes) - **Start here first.**
  
