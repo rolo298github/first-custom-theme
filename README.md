@@ -18,4 +18,4 @@ Here are a couple resources I found that are very useful when I was creating my 
 [Less] (http://lesscss.org/) - Brackets themes are written in .less or .css format.
 
 <h3>Read Me Markup Syntax</h3>
-GitHub has their own markup syntax for documentation. Here is the link to [Writing in GitHub] (https://help.github.com/articles/markdown-basics/). I found it help very helpful since I am a beginner.
+GitHub has their own markup syntax for documentation. Here is the link to [Writing in GitHub] (https://help.github.com/articles/markdown-basics/). I found it very helpful.
