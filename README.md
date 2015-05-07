@@ -23,7 +23,7 @@ Brackets themes are written in [Less](http://lesscss.org/) or [CSS](http://www.w
 GitHub has their own markup syntax for styling documents like a ReadMe file. Here is the link to [Writing in GitHub] (https://help.github.com/articles/markdown-basics/). I found it very helpful.
 
 
-<h3>Screenshots</h3>
+<h2>Screenshots</h2>
 
 **HTML Design**
 ![html image](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/first_custom_theme_html.PNG)
