@@ -15,9 +15,15 @@ Here are a couple resources I found that are very useful when I was creating my 
 
 [Dark Theme] (https://github.com/adobe/brackets/blob/master/src/extensions/default/DarkTheme/main.less) - Basic Theme to start out with and edit. The theme was provided by Adobe Corporation.
 
-Brackets themes are written in [Less] (http://lesscss.org/) or [CSS] (http://www.w3schools.com/css/css_intro.asp) format since version 1.1.
+Brackets themes are written in [Less](http://lesscss.org/) or [CSS](http://www.w3schools.com/css/css_intro.asp) format since version 1.1.
 
 <h3>ReadMe Markup Syntax</h3>
 GitHub has their own markup syntax for documentation. Here is the link to [Writing in GitHub] (https://help.github.com/articles/markdown-basics/). I found it very helpful.
 
 <h3>Screenshots</h3>
+
+HTML design
+[html image](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/first_custom_theme_html.PNG)
+
+CSS design
+[css image](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/first_custom_theme_css.PNG)
