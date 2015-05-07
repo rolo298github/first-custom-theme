@@ -2,7 +2,7 @@
 
 <h2>My first custom theme for Brackets</h2>
 
-***Work In Progress***
+***Special Note: Work In Progress***
 
 This is my first custom theme for the Brackets editor. I am a new student to web development and github. So please bare with me as I learn to setup this project.
 
