@@ -6,6 +6,7 @@
 
 This is my first custom theme for the Brackets editor. I am a new student to web development and github. So please bare with me as I learn to setup this project.
 
+
 <h3>Resources</h3>
 Here are a couple resources I found that are very useful when I was creating my first custom theme.
 
@@ -17,8 +18,10 @@ Here are a couple resources I found that are very useful when I was creating my 
 
 Brackets themes are written in [Less](http://lesscss.org/) or [CSS](http://www.w3schools.com/css/css_intro.asp) format since version 1.1.
 
-<h3>ReadMe Markup Syntax</h3>
+
+<h3>Style A ReadMe File</h3>
 GitHub has their own markup syntax for styling documents like a ReadMe file. Here is the link to [Writing in GitHub] (https://help.github.com/articles/markdown-basics/). I found it very helpful.
+
 
 <h3>Screenshots</h3>
 
