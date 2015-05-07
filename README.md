@@ -34,11 +34,11 @@ Here is a link to [Mastering Markdown in GitHub] (https://guides.github.com/feat
 <h2>Screenshots</h2>
 
 **HTML Design**
-<br>
+
 ![html image](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/first_custom_theme_html.PNG)
 
 **CSS Design**
-<br>
+
 ![css image](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/first_custom_theme_css.PNG)
 
 
