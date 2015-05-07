@@ -26,7 +26,7 @@ Brackets themes are written in [Less](http://lesscss.org/) or [CSS](http://www.w
 
 
 <h3>ReadMe.md File Styling</h3>
-GitHub has their own markup syntax for styling Markdown documents like the ReadMe.md file. Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. Here is the link to [Mastering Markdown in GitHub] (https://guides.github.com/features/mastering-markdown/). I found it very helpful.
+GitHub has their own markup syntax for styling Markdown documents like the ReadMe.md file. Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. Here is a link to [Mastering Markdown in GitHub] (https://guides.github.com/features/mastering-markdown/). I found it very helpful.
 
 
 <h2>Screenshots</h2>
