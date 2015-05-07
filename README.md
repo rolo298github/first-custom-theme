@@ -19,3 +19,5 @@ Brackets themes are written in [Less] (http://lesscss.org/) or [CSS] (http://www
 
 <h3>ReadMe Markup Syntax</h3>
 GitHub has their own markup syntax for documentation. Here is the link to [Writing in GitHub] (https://help.github.com/articles/markdown-basics/). I found it very helpful.
+
+<h3>Screenshots</h3>
