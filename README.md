@@ -13,7 +13,7 @@ Link to file: https://github.com/rolo298github/first-custom-theme/zabala_themes.
 For a more detailed guide to installing addons or themes into Brackets refer to [Guide to Brackets Extension](https://github.com/adobe/brackets/wiki/Brackets-Extensions)
 
 
-<h2>Resources Used</h2>
+<h2>Resources</h2>
 Here are a couple resources I found that are very useful when I was creating my first custom theme.
 
 [Creating Themes] (https://github.com/adobe/brackets/wiki/Creating-Themes) - **Start here first.**
@@ -25,8 +25,10 @@ Here are a couple resources I found that are very useful when I was creating my 
 Brackets themes are written in [Less](http://lesscss.org/) or [CSS](http://www.w3schools.com/css/css_intro.asp) format since version 1.1.
 
 
-<h3>ReadMe.md File Styling</h3>
-GitHub has their own markup syntax for styling Markdown documents like the ReadMe.md file. Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. Here is a link to [Mastering Markdown in GitHub] (https://guides.github.com/features/mastering-markdown/). I found it very helpful.
+<h3>Documentation Guide</h3>
+GitHub has their own markup syntax for styling Markdown documents like the ReadMe.md file. Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. 
+
+Here is a link to [Mastering Markdown in GitHub] (https://guides.github.com/features/mastering-markdown/). I found it very helpful.
 
 
 <h2>Screenshots</h2>
