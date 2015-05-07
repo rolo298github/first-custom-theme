@@ -23,7 +23,7 @@ GitHub has their own markup syntax for documentation. Here is the link to [Writi
 <h3>Screenshots</h3>
 
 HTML design
-[html image](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/first_custom_theme_html.PNG)
+![html image](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/first_custom_theme_html.PNG)
 
 CSS design
-[css image](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/first_custom_theme_css.PNG)
+![css image](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/first_custom_theme_css.PNG)
