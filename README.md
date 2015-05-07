@@ -8,8 +8,9 @@ This is my first custom theme for the Brackets editor. I am a new student to web
 
 
 <h2>Installing Theme</h2>
-Download at: https://github.com/rolo298github/first-custom-theme/tree/master/downloads/themes/zabala_themes.zip
-Click on **RAW**
+1. Download at: https://github.com/rolo298github/first-custom-theme/tree/master/downloads/themes/zabala_themes.zip
+
+2. Click on **RAW**
 
 For a detailed guide to installing addons or themes into Brackets refer to [Guide to Brackets Extension](https://github.com/adobe/brackets/wiki/Brackets-Extensions)
 
