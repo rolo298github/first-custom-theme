@@ -25,7 +25,7 @@ Here are a couple resources I found that are very useful when I was creating my 
 Brackets themes are written in [Less](http://lesscss.org/) or [CSS](http://www.w3schools.com/css/css_intro.asp) format since version 1.1.
 
 
-<h3>Documentation Guide</h3>
+<h2>Documentation Guide</h2>
 GitHub has their own markup syntax for styling Markdown documents like the ReadMe.md file. Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. 
 
 Here is a link to [Mastering Markdown in GitHub] (https://guides.github.com/features/mastering-markdown/). I found it very helpful.
