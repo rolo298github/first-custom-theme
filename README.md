@@ -8,14 +8,14 @@ This is my first custom theme for the Brackets editor. I am a new student to web
 
 
 ##Installing Theme
-Install custom theme through Brackets program. Look for *Rolando Zabala II's first custom theme* in Bracket Add-On Extension under Themes.
+Install custom theme through Brackets program. Look for *Rolando Zabala II's Dark Theme* in the Bracket Add-On Extension under Themes.
 
 Or
 
 Click on
 ![download-zip](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/download_zip.PNG)
 
-Downloading the file should be occuring.
+You will be downloading the .zip file from my github account directly to install into Brackets.
 
 For addition help refer to [Guide to Brackets Extension](https://github.com/adobe/brackets/wiki/Brackets-Extensions) for a detailed guide to installing addons or themes into Brackets.
 
