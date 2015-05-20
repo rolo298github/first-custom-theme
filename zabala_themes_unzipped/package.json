@@ -1,0 +1,15 @@
+{
+    "name": "rolando_zabala_ii-first_custom_theme",
+    "title": "Rolando Zabala II's Dark Theme",
+    "description": "A dark theme based on Brackets Default Dark Theme template",
+    "homepage": "https://github.com/rolo298github/first_custom_theme",
+    "version": "1.0.0",
+    "author": "Rolando Zabala II <rzabala02@gmail.com> (https://github.com/rolo298github/first_custom_theme)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme, custom, dark-background, colorful-text,"]
+}
