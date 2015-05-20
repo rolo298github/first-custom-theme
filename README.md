@@ -4,16 +4,20 @@
 
 ***Special Note: Work In Progress***
 
-This is my first custom theme for the Brackets editor. I am a new student to web development and github. So please bare with me as I learn to setup this project.
+This is my first custom theme for the Brackets editor. I am a new student to web development and github.
 
 
 <h2>Installing Theme</h2>
+Install custom theme through Brackets program. Look for *Rolando Zabala II's first custom theme* in Bracket Add-On Extension under Themes.
+
+Or
+
 Click on
 ![download-zip](https://raw.githubusercontent.com/rolo298github/first-custom-theme/master/screenshots/download_zip.PNG)
 
 Downloading the file should be occuring.
 
-Refer to [Guide to Brackets Extension](https://github.com/adobe/brackets/wiki/Brackets-Extensions) for a detailed guide to installing addons or themes into Brackets.
+For addition help refer to [Guide to Brackets Extension](https://github.com/adobe/brackets/wiki/Brackets-Extensions) for a detailed guide to installing addons or themes into Brackets.
 
 
 <h2>Resources</h2>
