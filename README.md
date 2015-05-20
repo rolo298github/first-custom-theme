@@ -51,4 +51,4 @@ Here is a link to [Mastering Markdown in GitHub] (https://guides.github.com/feat
 If you have any questions or comments about my work. You can e-mail @ rzabala02@gmail.com
 
 ##License
-License under [MIT](https://github.com/rolo298github/first-custom-theme/blob/master/LICENSE).
+[MIT](https://github.com/rolo298github/first-custom-theme/blob/master/LICENSE).
