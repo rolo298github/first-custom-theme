@@ -2,8 +2,6 @@
 
 ##My first custom theme for the Brackets Editor
 
-***Special Note: Work In Progress***
-
 This is my first custom theme for the Brackets editor. I am a new student to web development and github.
 
 
