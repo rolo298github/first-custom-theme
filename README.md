@@ -6,7 +6,7 @@ This is my first custom theme for the Brackets editor. I am a new student to web
 
 
 ##Installing Theme
-Install custom theme directly through the Brackets program. Look for the theme file name *Rolando Zabala II's Dark Theme* under the *Themes Tab* inside the *Extension Manager*.
+Install custom theme directly through the Brackets program. Look for the file named **Rolando Zabala II's Dark Theme** under the *Themes Tab* inside the *Extension Manager*.
 
 Or
 
